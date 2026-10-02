@@ -163,5 +163,8 @@ Healthcare-Web-Application-QA/
 ## Project Note
 
 This repository is maintained as a QA portfolio demonstrating software testing practices and QA documentation for a healthcare web application.
+## Confidentiality
+
+Original BRD/FSD documents and other proprietary project materials are not included in this repository due to confidentiality restrictions. This repository contains only QA artifacts suitable for portfolio demonstration.
 
 Sensitive information, credentials, and real patient data are not included in this repository.
